@@ -2,7 +2,7 @@ print("Titel:", "Het is al laat toch")
 print("Artiest:", "Racoon")
 
 print("[Verse 1]")
-print("Wat een idee, wat een plan oh verdomme man")
+print("Wat een idee, wat een plan, oh verdomme man")
 print("Waarom ben ik zo nerveus")
 print("Ga naar binnen, ga toch zitten en wat drinken dan")
 print("Misschien vindt ze je wel leuk")
