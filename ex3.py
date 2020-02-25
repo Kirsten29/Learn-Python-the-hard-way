@@ -34,3 +34,5 @@ print("Is is greater or equal?", 5 >= -2)
 print("Is it less or equal?", 5 <= -2)
 
 # Continue with the study drills
+# Find something you need to calculate and write a new .py file that does it.
+# Rewrite ex3.py to use floating point numbers so it's more accurate. 20.0 is floating point.
