@@ -15,4 +15,13 @@
 
 # ex9.py:
 # the free online manuel ended here. Downloaded versions seem to be old.
-# Executing the script as given causes errors. Adjustments don't suffice. 
+# Executing the script as given causes errors. Adjustments don't suffice. Skipping this one for now.
+
+# waar zij %r of %s schrijven = {}
+# waar zij print .... % schrijven = print(formatter.format)
+# waar zij % schrijven is het .format
+# op #2 klopt de code maar krijg'm niet aan de praat. Morgen weer kijken.
+
+
+#ex10.py:
+# brackets toegevoegd waarna hij runde. Nwe repo geforkt met de juiste code. \t \n \t* vraagt om verdere verdieping.
