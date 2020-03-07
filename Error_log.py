@@ -14,7 +14,7 @@
 # na hashtags ook gespaceerd en zo errors eruit gehaald.
 
 # ex9.py:
-# the free online manuel ended here. Downloaded versions seem to be old.
+# the free online manual ended here. Downloaded versions seem to be old.
 # Executing the script as given causes errors. Adjustments don't suffice. Skipping this one for now.
 
 # waar zij %r of %s schrijven = {}
