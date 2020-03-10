@@ -25,3 +25,6 @@
 
 #ex10.py:
 # brackets toegevoegd waarna hij runde. Nwe repo geforkt met de juiste code. \t \n \t* vraagt om verdere verdieping.
+
+# ex13: import: (features) ~ modules ~ (libraries).
+# argv = 'argument variable'
