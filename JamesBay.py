@@ -11,7 +11,7 @@ print("Holding something we don't need")
 print("Oh, this delusion in our heads"
 print("Is gonna bring us to our knees"
 
-print("So come on, let it go"
+print("So come on, let it go")
 print("Just let it be")
 print("Why don't you be you")
 print("And I'll be me")
@@ -45,28 +45,28 @@ print("And I'll be me")
 
 print("And I'll be me")
 
-Tryna fit your hand inside mine
-When we know it just don't belong
-There's no force on earth
-Could make it feel right, no
+print("Tryna fit your hand inside mine")
+print("When we know it just don't belong")
+print("There's no force on earth")
+print("Could make it feel right, no")
 
-Tryna push this problem up the hill
-When it's just too heavy to hold
-Think now is the time to let it slide
+print("Tryna push this problem up the hill")
+print("When it's just too heavy to hold")
+print("Think now is the time to let it slide")
 
-So come on, let it go
-Just let it be
-Why don't you be you
-And I'll be me
+print("So come on, let it go")
+print("Just let it be")
+print("Why don't you be you")
+print("And I'll be me")
 
-Everything that's broke
-Leave it to the breeze
-Let the ashes fall
-Forget about me
+print("Everything that's broke")
+print("Leave it to the breeze")
+print("Let the ashes fall")
+print("Forget about me")
 
-Come on, let it go
-Just let it be
-Why don't you be you
-And I'll be me
+print("Come on, let it go")
+print("Just let it be")
+print("Why don't you be you")
+print("And I'll be me")
 
-And I'll be me
+print("And I'll be me")
