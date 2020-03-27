@@ -8,8 +8,8 @@ print("To staying up and waking up with you")
 
 print("Now we're slipping near the edge")
 print("Holding something we don't need")
-print("Oh, this delusion in our heads"
-print("Is gonna bring us to our knees"
+print("Oh, this delusion in our heads")
+print("Is gonna bring us to our knees")
 
 print("So come on, let it go")
 print("Just let it be")
